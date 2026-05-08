@@ -1,3 +1,5 @@
+# A basic ATM
+
 print("Welcome to a basic ATM")
 print("What would you like to do today?")
 balance = 1000
